@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib as m
 
-m.use('TkAgg')
+m.use('QT5Agg')
 m.interactive(True)
 
 import matplotlib.pyplot as plt
